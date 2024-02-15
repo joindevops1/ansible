@@ -5,14 +5,21 @@
 localhost
 
 [localhost:vars]
-Course="DevOps from inventory"
+Course="DevOps From inventory"
 Trainer="Sivakumar"
-Duration="110"
-PERSON: "siva from inventory"
-WISHES: "Morning from inventory"
+Duration="110HRS"
+PERSON="Siva from inventory"
+WISHES="Morning from inventory"
 
 [web]
-54.174.143.76
+54.81.38.216
+
+[web:vars]
+Course="DevOps From inventory"
+Trainer="Sivakumar"
+Duration="110HRS"
+PERSON="Siva from inventory"
+WISHES="Morning from inventory"
 
 [catalogue]
 192.187.56.5
